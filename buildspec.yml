@@ -18,3 +18,4 @@ artifacts:
   files:
     - target/JavaWeb.war
     - appspec.yml
+    - restart.sh
