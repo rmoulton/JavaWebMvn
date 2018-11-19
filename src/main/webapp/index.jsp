@@ -1,5 +1,5 @@
 <html>
-<body>
-<h2>Hello World ADDED!</h2>
+<body style="color:red;text-align:center"
+<h2>Hello World RED!</h2>
 </body>
 </html>
