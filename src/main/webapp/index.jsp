@@ -1,5 +1,5 @@
 <html>
-<body style="color:green;text-align:center"
-<font size="7">Hello World in GREEN !</font>
+<body>
+<h1 style="border:2px solid DodgerBlue;">Hello World BLUE !</h1>
 </body>
 </html>
